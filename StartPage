@@ -1,0 +1,9 @@
+<html>
+    <head></head>
+    <body>
+        <h1>Welcome to Chautauqua 2014</h1>
+        <h2>Please select an event</h2>
+        <button type="button" class="norforlkbutton"><a href="http://www.google.com">Norfolk June 18-22</a></button>
+        <button type="button" class="scottsbluffbutton"><a href="http://www.google.com">Scottsbluff/Gering June 25-29</a></button>
+    </body>
+</html>
