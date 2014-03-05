@@ -1,4 +1,0 @@
-HumNeb
-======
-
-Humanities Nebraska
