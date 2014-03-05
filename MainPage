@@ -1,2 +1,12 @@
 <html>
+    <head>
+    </head>
+    <body class="norfolkmainpage">
+        <button type="button" class="schedulebutton"><a href="http://www.unl.edu">Schedule</a></button>
+        <button type="button" class="feathistorybutton"><a href="http://www.unl.edu">Featured History</a></button>
+        <button type="button" class="sharebutton"><a href="http://www.unl.edu">Share</a></button>
+        <button type="button" class="faqbutton"><a href="http://www.unl.edu">FAQ</a></button>
+    </body>
 </html>
+
+
