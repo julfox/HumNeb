@@ -1,2 +1,12 @@
 <html>
+    <head>
+        <title>Share</title>
+    </head>
+    <body>
+        <button>Back</button>
+        <p><a href="https://www.facebook.com/"><button>Facebook</button></a></p>
+        <p><a href="https://twitter.com/"><button>Twitter</button></p></a>
+        <p><a href="http://instagram.com/"><button>Instagram</button></p></a>
+        <p><button>Take a Photo</button></p>
+    </body>
 </html>
