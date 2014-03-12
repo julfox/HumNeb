@@ -3,21 +3,21 @@
    <head></head>
     <body class="faq">
         
-        <h1>Frequently Asked Questions</h1>
+        <h1 class="faqHead">Frequently Asked Questions</h1>
         
-        <h2>What is Chautauqua?</h2>
+        <h2 class="faqInfo">What is Chautauqua?</h2>
         <p>Chautauqua, an education entertainment event hosted by Humanities Nebraska, brings historical events to life using interactive performances and discussions with Great Plains scholars. </p>
         
-        <h2>What is this year's Chautauqua about?</h2>
+        <h2 class-"faqInfo">What is this year's Chautauqua about?</h2>
         <p>This year's theme is: Free Land? 1862 and the Shaping of Modern America. Free Land Chautauqua allows the audience to experience and explore the impact of landmark legislations through the historical lens of homesteading, migration, and displacement on the Great Plains.</p>
         
-        <h2>When/Where is Chautauqua?</h2>
+        <h2 class="faqInfo">When/Where is Chautauqua?</h2>
         <p>In 2014 Free Land Chautauqua takes place in Norfolk (June 18 – 22) and Scottsbluff-Gering (June 25 – 29).</p>
         
-        <h2>How much does it cost?</h2>
+        <h2 class="faqInfo">How much does it cost?</h2>
         <p>Admission to Chautauqua is completely free.</p>
         
-        <h2>Who is hosting Chautauqua?</h2>
+        <h2 class="faqInfo">Who is hosting Chautauqua?</h2>
         <p>Chautauqua is hosted by Humanities Nebraska, a non-profit organization dedicated to inspiring and enrirching personal and public life by offering opportunities to thoughtfully engage with history and culture.</p>
          
     </body> 
